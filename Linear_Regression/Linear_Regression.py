@@ -21,7 +21,7 @@ sns.jointplot(data=customers, x='Time on Website', y='Yearly Amount Spent') #Cre
 sns.jointplot(data=customers, x='Time on App', y='Yearly Amount Spent') #Create a jointplot to compare the Time on App and Yearly Amount Spent
 sns.pairplot(customers) #Explore pairwise relationships across the entire dataset
 sns.lmplot(x='Length of Membership', y='Yearly Amount Spent', data=customers) # Create a linear model plot of Yearly Amount Spent against Length of Membership
-
+plt.show()
 """
 Conclusions
 There seems to be a relationship between Time on App and Yearly Amount Spent, while it does not appear that there is a relationship between Time on Website and Yearly Amount Spent. 

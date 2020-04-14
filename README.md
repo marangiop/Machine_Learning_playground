@@ -1,2 +1,11 @@
 # Machine_Learning_playground
-In this repository I go over some case-studies that involve the deployment of machine learning algorithms in Python and R in order to train and evaluate models for both synthetic and real datasets. 
+In this repository I go over some case-studies that involve the deployment of machine/deep learning algorithms in Python in order to train and evaluate models on both synthetic and real datasets. 
+
+
+
+| Tool/Algorithm | Application  |
+| -------------        | -------------
+| Linear Regression    | Ecommerce data analytics|
+| Logistic Regression  | Ad click prediction |    
+| Multivariate Gaussian | Anomaly Detection for network servers |
+
