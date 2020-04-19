@@ -8,4 +8,4 @@ In this repository I go over some case-studies that involve the deployment of ma
 | Linear Regression    | Ecommerce data analytics|
 | Logistic Regression  | Ad click prediction |    
 | Multivariate Gaussian | Anomaly Detection for network servers |
-
+| Polynomial/Linear Regression | Audio prediction |
