@@ -9,3 +9,4 @@ In this repository I go over some case-studies that involve the deployment of ma
 | Logistic Regression  | Ad click prediction |    
 | Multivariate Gaussian | Anomaly Detection for network servers |
 | Polynomial/Linear Regression | Audio prediction |
+| Principal Component Analysis | Dimensionality reduction for simple 2D dataset |
