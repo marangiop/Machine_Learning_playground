@@ -13,3 +13,4 @@ In this repository I go over some case-studies that involve the deployment of ma
 | Bayesian Linear Regression | Prediction of burnt calories from exercise length | 
 | Bayes Factor/Marginal Likelihood | Bayesian Model selection for coin toss|
 	| Gaussian Process           | Regression with confidence interval |  
+	|Regularized Linear Regressions | Predicting of Computerised Tomography slice location |
