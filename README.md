@@ -12,5 +12,5 @@ In this repository I go over some case-studies that involve the deployment of ma
 | Principal Component Analysis | Dimensionality reduction for simple 2D dataset |
 | Bayesian Linear Regression | Prediction of burnt calories from exercise length | 
 | Bayes Factor/Marginal Likelihood | Bayesian Model selection for coin toss|
-	| Gaussian Process           | Regression with confidence interval |  
-	|Regularized Linear Regressions | Predicting of Computerised Tomography slice location |
+| Gaussian Process           | Regression with confidence interval |  
+|Regularized Linear Regressions | Predicting of Computerised Tomography slice location |
